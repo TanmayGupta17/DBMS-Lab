@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WindowsFormsApp1;
 
 namespace WindowsFormsApplication1
 {
@@ -46,9 +47,15 @@ namespace WindowsFormsApplication1
         private void Form3_Load(object sender, EventArgs e)
         {
             label5.Text = username;
-            label6.Text = "$100000";
+            label6.Text = "Rs 12000";
             label7.Text = "23 Aug";
-            label8.Text = "$100\n$1900\n$200\n$1000\n$10";
+            label8.Text = "Rs -100\nRs +1900\nRs -200\nRs -1000\nRs +10";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form5 frm = new Form5();
+            frm.ShowDialog();
         }
     }
 }

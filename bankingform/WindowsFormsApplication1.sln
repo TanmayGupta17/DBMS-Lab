@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bankingform", "WindowsFormsApplication1\bankingform.csproj", "{FBCFD0D4-B43E-47C7-9F66-DF9E3F6496AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "..\..\..\..\..\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1.csproj", "{6C1AE43B-60C7-4803-8B1E-A33C9C328BCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,10 @@ Global
 		{FBCFD0D4-B43E-47C7-9F66-DF9E3F6496AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBCFD0D4-B43E-47C7-9F66-DF9E3F6496AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBCFD0D4-B43E-47C7-9F66-DF9E3F6496AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1AE43B-60C7-4803-8B1E-A33C9C328BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1AE43B-60C7-4803-8B1E-A33C9C328BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1AE43B-60C7-4803-8B1E-A33C9C328BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1AE43B-60C7-4803-8B1E-A33C9C328BCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

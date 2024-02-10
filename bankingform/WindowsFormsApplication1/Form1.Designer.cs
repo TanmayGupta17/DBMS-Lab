@@ -99,7 +99,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.label4.Location = new System.Drawing.Point(1432, 440);
+            this.label4.Location = new System.Drawing.Point(1426, 449);
             this.label4.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(129, 37);
@@ -109,9 +109,10 @@
             // 
             // maskedTextBox1
             // 
-            this.maskedTextBox1.Location = new System.Drawing.Point(763, 446);
+            this.maskedTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F);
+            this.maskedTextBox1.Location = new System.Drawing.Point(763, 449);
             this.maskedTextBox1.Name = "maskedTextBox1";
-            this.maskedTextBox1.Size = new System.Drawing.Size(655, 31);
+            this.maskedTextBox1.Size = new System.Drawing.Size(655, 47);
             this.maskedTextBox1.TabIndex = 7;
             this.maskedTextBox1.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBox1_MaskInputRejected);
             // 

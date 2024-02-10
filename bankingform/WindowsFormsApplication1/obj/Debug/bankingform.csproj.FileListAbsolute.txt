@@ -32,3 +32,7 @@ C:\Users\M1_MacbookPro\Downloads\DBMSLab-main\DBMSLab-main\lab2\bankingform\Wind
 C:\Users\M1_MacbookPro\Downloads\DBMSLab-main\DBMSLab-main\lab2\bankingform\WindowsFormsApplication1\obj\Debug\bankingform.csproj.CoreCompileInputs.cache
 C:\Users\M1_MacbookPro\Downloads\DBMSLab-main\DBMSLab-main\lab2\bankingform\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\M1_MacbookPro\Downloads\DBMSLab-main\DBMSLab-main\lab2\bankingform\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\M1_MacbookPro\Downloads\DBMSLab-main\DBMSLab-main\lab2\bankingform\WindowsFormsApplication1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\M1_MacbookPro\Downloads\DBMSLab-main\DBMSLab-main\lab2\bankingform\WindowsFormsApplication1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\M1_MacbookPro\Downloads\DBMSLab-main\DBMSLab-main\lab2\bankingform\WindowsFormsApplication1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\M1_MacbookPro\Downloads\DBMSLab-main\DBMSLab-main\lab2\bankingform\WindowsFormsApplication1\obj\Debug\bankingform.csproj.CopyComplete
