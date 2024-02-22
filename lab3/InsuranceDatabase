@@ -70,3 +70,17 @@ insert into participated values('5','590',14,4000);
 
 Update participated set damage_amount = 25000 where regno = 525;
 
+#Delete the accident and related information that took place in a specific year. 
+
+delete from participated where report_number in (select report_number from accident where extract(year from accd_date)=2005);
+delete from accident where extract(year from accd_date) = 2005;
+
+#Alter table to add and delete an attribute.
+
+alter table person add phone_number int;
+alter table person drop column phone_number;
+
+#Alter table to add Check constraint
+
+alter table participated add check(damage_amount > 1000);
+
