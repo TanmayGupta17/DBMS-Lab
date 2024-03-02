@@ -25,7 +25,7 @@ create table Item(
   3  qty int,
   4  item# int,
   5  Foreign Key(order#) references orders(order#),
-  6  Foreign Kye(item#) references item(item#)
+  6  Foreign Key(item#) references item(item#)
   7  );
 
 create table warehouse(
