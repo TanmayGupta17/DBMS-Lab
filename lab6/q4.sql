@@ -17,4 +17,4 @@ END DisplayTotalDamageByDriverAndYear;
 
 
 
-execute DisplayTotalDamageByDriverAndYear('2', 2024);
+execute DisplayTotalDamageByDriverAndYear('2', 2011);
